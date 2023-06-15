@@ -1,0 +1,2 @@
+To start the game copy the file path of hereos csv into the view class in the package engine in the start method.
+To win you need to cure 5 zombies.
